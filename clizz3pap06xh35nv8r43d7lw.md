@@ -8,6 +8,8 @@ tags: two-tier-architecture-using-terraform
 
 ---
 
+### Aim & Objectives:
+
 * Custom VPC with CIDR 10.0.0.0/16.
     
 * Two Public Subnets with CIDR 10.0.1.0/24 and 10.0.2.0/24 in different Availability Zones for high availability.
@@ -83,7 +85,7 @@ The root module calls the child module and includes the child module’s resourc
 
 ### **Architecture:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686984998695/ab3ce470-3418-4900-86ac-3a834c5a73b6.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687006372312/65339b63-4af0-48b6-9a93-a9bdceb99c77.png align="center")
 
 [Click here for the GitHub to complete the project](https://github.com/sridhar-modalavalasa/Terraform-2-Tier)
 
