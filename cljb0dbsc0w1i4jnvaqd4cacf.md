@@ -41,7 +41,7 @@ I have divided this project into **two parts** for your convenience which gives 
     
 * **The Difference with the DevOps Workflow**
     
-* **Dockerfile and jenkinsfile walkthrough**
+* **Dockerfile and Jenkinsfile walkthrough**
     
 * **Jenkins installation and Jenkins job setup**
     
