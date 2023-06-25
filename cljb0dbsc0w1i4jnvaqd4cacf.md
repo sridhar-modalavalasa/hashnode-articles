@@ -3,6 +3,8 @@ title: "Part1:Overview of CI/CD on Kubernetes Using Argo CD."
 datePublished: Sun Jun 25 2023 05:47:39 GMT+0000 (Coordinated Universal Time)
 cuid: cljb0dbsc0w1i4jnvaqd4cacf
 slug: part1overview-of-cicd-on-kubernetes-using-argo-cd
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687674436691/1036b37c-fa0a-4365-b34d-d13a340d9804.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1687674486452/2f42e6c3-bd78-4ce3-964b-b2537fc715ec.png
 tags: cicd-on-kubernetes-using-argocd
 
 ---
@@ -70,7 +72,7 @@ We are using the GitOps  ArgoCD as the GitOps part tool but this approach will 
 
 GitOps continuously will monitor this Kubernetes manifest repo and if the state in the Kubernetes cluster deviates from the manifest files in the repo GitOps will grab those changes from the GitHub repository and deploy them into the Kubernetes cluster.
 
-If there is no container running in the Kubernetes cluster and GitOps sees that so it is going to deploy the deployment.yaml file into the kubernetes cluster.
+If there is no container running in the Kubernetes cluster and GitOps sees that so it is going to deploy the deployment.yaml file into the Kubernetes cluster.
 
 So in the cluster, we have a container with the 5 running so this is for the first time. What if the application's application code [app.py](http://app.py) gets changed and pushed again? So in this case the job build image will build a new container image and save the new container image with the new tag flask:6.
 
