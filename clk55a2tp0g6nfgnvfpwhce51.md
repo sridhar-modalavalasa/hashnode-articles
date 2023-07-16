@@ -1,8 +1,8 @@
 ---
-title: "PART 1: Nodejs Application Setup and the Dependencies of Prometheus and Grafana on EKS Cluster Using HELM Charts."
-datePublished: Sun Jul 16 2023 07:58:11 GMT+0000 (Coordinated Universal Time)
+title: "PART 1: Simplified Dependency for EKS Cluster, Observability stack, and Dockerizing the Nodejs Application."
+datePublished: Sun Jul 16 2023 08:04:10 GMT+0000 (Coordinated Universal Time)
 cuid: clk55a2tp0g6nfgnvfpwhce51
-slug: part-1-nodejs-application-setup-and-the-dependencies-of-prometheus-and-grafana-on-eks-cluster-using-helm-charts
+slug: part-1-simplified-dependency-for-eks-cluster-observability-stack-and-dockerizing-the-nodejs-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689484854373/11532142-cc94-4895-a482-a8652740373d.png
 tags: dependancies-of-prometheus-and-grafana-in-eks
 
